@@ -1,0 +1,6 @@
+{
+  "appId": "com.jcert.studybuddy",
+  "appName": "JCERT Study Buddy AI",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}
